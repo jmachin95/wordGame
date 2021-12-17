@@ -1,9 +1,7 @@
 /*
-- Title: Word Game Assessed Practical 3
+- Title: Word Game 
 - Files: wordGame.java
 - Author: Jack Machin
-- Student Number: 2101423901
-- CS login: x5z47
 - Description: The program is a Java Word Game which prompts a user for input, applies rules to the input 
                and then gives the correct output based on this. The game ends when the user enters 30 correct
                inputs(win) or enters a validated word that has been entered previously(loss). If the word is not 
@@ -13,7 +11,7 @@
                will be treated the same whilst being searched for in the dictionary(e.g. empAthy will be search for
                as empathy in the dictionary) but they'll be treated separately when contained in the words array
                e.g. empAthy and empathy will be stored separately and the game will not end due to this.
-- Last Modified: 10th December 2021
+- Last Modified: 17th December 2021
  */
 
 import java.io.*;
